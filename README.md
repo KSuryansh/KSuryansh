@@ -38,9 +38,9 @@
 
 <h2><i>Let's Connect</i></h2>
 <p align="left" >
-   <a href="https://twitter.com/geekyshow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyshow1" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/irenicraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/GeekyShow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekyshow" height="30" width="40" /></a>
+   <a href="https://twitter.com/KSuryanshSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyshow1" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kunwar-suryansh-singh-a6850a190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100093582738781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekyshow" height="30" width="40" /></a>
 </p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
