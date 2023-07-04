@@ -43,6 +43,17 @@
   <a href="https://www.facebook.com/profile.php?id=100093582738781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekyshow" height="30" width="40" /></a>
 </p>
 
+<!----------------------------------- Profile View Section ------------------------------------>
+
+<p align="left">
+    <a href="https://github.com/geekyshow1">
+        <img src="https://komarev.com/ghpvc/?username=KSuryansh&label=Profile%20views&color=0e75b6&style=flat" alt="geekyshow1" />
+    </a>
+    <a href="https://github.com/geekyshow1?tab=followers">
+        <img src="https://img.shields.io/github/followers/KSuryansh?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
+
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2><i>My GitHub Stats</i></h2>
 <p>
